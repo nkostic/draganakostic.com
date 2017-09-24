@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Archive
-description: 
+title: Archivio
+description:
 permalink: /archive/
 ---
 <section class="archives" itemscope itemtype="http://schema.org/Blog">
   <a class="nav nav--black" href="{{ site.baseurl }}/">
     <i class="fa fa-lg fa-arrow-left"></i>
-    <span>Back to Posts</span>
+    <span>Ritorna ai progetti</span>
   </a>
   <header class="archives__header">
-    <span>Archive</span>
+    <span>Archivio</span>
   </header>
   <div class="section-padding archives__container">
     {% for post in site.posts %}
@@ -31,7 +31,7 @@ permalink: /archive/
                 in {{ post.categories | join: ', ' }}
               {% endif %}
             </p>
-            <span class="card__more">Read Post</span>
+            <span class="card__more">Leggi di più</span>
           </div>
         </a>
       </article>

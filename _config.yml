@@ -1,26 +1,28 @@
 # Site settings
-email: 
+email: draganakostic@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics:
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
-twitter_username: 
-default_img: 
+title: mio sito
+description:
+url: "draganakostic.com"
+twitter_username:
+default_img:
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: Dragana Kostic
+profile_img: /img/gg.jpg
+profile: Sono architetto attualmente situato sulla relazione Monterosso al mare di Venezia. Sono sempre alla ricerca per i migliori progetti e incontrare persone straordinarie. Non esitate a contattarmi. Dragana Kostic
 social:
-  github: 
+  facebook: https://www.facebook.com/dragana.kostic.71
+  linkedin: https://www.linkedin.com/in/dragana-kostic-87268a44
 
 # Build settings
-exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
+include: ["_categories"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock","photoshop"]
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 

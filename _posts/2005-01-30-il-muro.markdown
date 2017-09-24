@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Il Muro"
+date: 2005-01-30
+categories:
+  - Disegni
+description: La costruzione di un muro di Luciano Semerani, Arsenale di Venezia 1987.
+image: /img/p3/p3-large.png
+image-sm: /img/p3/p3-small.png
+---
+L'Arsenale di Venezia 1987 ``In se la costruzione di un muro , Il suo tracciato , Possono anche essere intesi essenzialmente come un atto simbolico , Perimetrare,recingere,il partire il terriorio per abbitare ,coltivare,divider. Non altezza ,lo spessore,la materialita e quindi la tessitura o l agregarsi dei materiali Sono scelte tra loro concatenate, Dove la tecnica e l`arte si incontrano in decisioni anchèsse univoche e non meno significati dellìdea primigenia. Infatti ontonacati ,con conci a vista,luci di maioliche o affrescati sarrano muri amici ,nemici,lussiosi,accati ivanti,narrative,smaterrializzati,saporosi.`` (NEVERMORE- E.A.P.) Semerani Luciano
+
+![il-muro-small](/img/p3/p3-small.png){:class="img-responsive"}
