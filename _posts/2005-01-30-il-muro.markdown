@@ -8,6 +8,6 @@ description: La costruzione di un muro di Luciano Semerani, Arsenale di Venezia 
 image: /img/p3/p3-large.png
 image-sm: /img/p3/p3-small.png
 ---
-L’Arsenale di Venezia 1987 In se la costruzione di un muro,il suo tracciato,possono anche essere intesi essenzialmente come un atto simbolico,il terriorio per abbitare,coltivare,dividere,non l`altezza,lo spessore,la materialita e quindi la tessitura o l`agregazione dei materiali sono le scelte tra loro concatenate,dove la tecnica e l`arte si incontrano in decisioni anchèsse univoche e non meno significati dell`ìdea primigenia.Infatti intonacati,con conci a vista,luci o affrescati sarrano muri amici,nemici,lussiosi,smaterrializzati,saporosi. (Luciano Semerani Nevermore-La filosofia della composizione /secondo E.A. Poe/)
+L’Arsenale di Venezia (1987). In sé la costruzione di un muro, il suo tracciato, possono anche essere intesi essenzialmente come un atto simbolico, il territorio per abitare, coltivare, dividere, non l’altezza, lo spessore, la materialità e quindi la tessitura o l’aggregazione dei materiali sono le scelte tra loro concatenate, dove la tecnica e l’arte si incontrano in decisioni anch’esse univoche e non meno significanti dell’idea primigenia. Infatti intonacati, con conci a vista, luci o affrescati saranno muri amici, nemici, lussuosi, smaterializzati, saporosi. (Luciano Semerani, “Nevermore. La filosofia della composizione (secondo E. A. Poe)”, in “Passaggio a Nord-Ovest”, Electa, Milano 1991)
 
 ![il-muro-small](/img/p3/p3-small.png){:class="img-responsive"}
