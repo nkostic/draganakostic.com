@@ -1,16 +1,16 @@
 # Site settings
 email: draganakostic@gmail.com
-baseurl: ""
+baseurl: "draganakostic.com"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics:
 
 # SEO settings
 title: mio sito personale
-description:
+description: mio sito personale
 url: "draganakostic.com"
 twitter_username:
-default_img:
+default_img: /img/gg.jpg
 
 # Profile settings
 name: Dragana Kostic
