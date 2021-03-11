@@ -3,7 +3,7 @@ email: draganakostic@gmail.com
 baseurl: "https://draganakostic.com"
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics:
+google_analytics: "G-E9CJ9HCQKF"
 
 # SEO settings
 title: mio sito personale
